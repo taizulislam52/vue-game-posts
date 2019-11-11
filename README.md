@@ -1,4 +1,4 @@
-# gamespot
+# game-Posts
 
 ## Project setup
 ```
